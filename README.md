@@ -37,8 +37,12 @@ Hyperparameter tuning was performed using GridSearchCV to optimize the parameter
 
 ## Tools and Technologies
 Python: For data processing and model development.
+
 Jupyter Notebook: For step-by-step analysis and visualization.
+
 Libraries:
+
 Pandas, NumPy: For data manipulation and analysis.
+
 Matplotlib, Seaborn: For data visualization.
 Scikit-learn, XGBoost: For machine learning models and performance evaluation.
