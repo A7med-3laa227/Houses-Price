@@ -1,7 +1,4 @@
-
-It seems the notebook includes a comprehensive analysis and workflow for house price prediction, such as data exploration, cleaning, and potentially model development. I'll integrate this into the README, highlighting the steps taken based on the notebook content:
-
-House Price Analysis and Prediction using Machine Learning
+## House Price Analysis and Prediction using Machine Learning
 Overview
 This project focuses on analyzing house prices and building a machine learning model to predict house prices using the provided dataset. The notebook performs detailed data exploration, cleaning, and model development to estimate the sale price of houses based on various attributes.
 
